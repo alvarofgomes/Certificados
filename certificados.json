@@ -1,0 +1,332 @@
+[
+  {
+    "arquivo": "A Era da IA Machine Learning LLMs IA Generativa e Agentes.pdf",
+    "titulo_pt": "A Era da IA Machine Learning LLMs IA Generativa e Agentes",
+    "titulo_en": "The AI Era: Machine Learning, LLMs, Generative AI and Agents",
+    "categoria": "ia"
+  },
+  {
+    "arquivo": "Algoritmos e Lógica de Programação.pdf",
+    "titulo_pt": "Algoritmos e Lógica de Programação",
+    "titulo_en": "Algorithms and Programming Logic",
+    "categoria": "outros"
+  },
+  {
+    "arquivo": "Ambiente de Desenvolvimento e Primeiros Passos com Python.pdf",
+    "titulo_pt": "Ambiente de Desenvolvimento e Primeiros Passos com Python",
+    "titulo_en": "Development Environment and First Steps with Python",
+    "categoria": "python"
+  },
+  {
+    "arquivo": "Aplicações Práticas da Inteligência Artificial.pdf",
+    "titulo_pt": "Aplicações Práticas da Inteligência Artificial",
+    "titulo_en": "Practical Applications of Artificial Intelligence",
+    "categoria": "ia"
+  },
+  {
+    "arquivo": "Bootcamp_Deloitte.pdf",
+    "titulo_pt": "Bootcamp Deloitte",
+    "titulo_en": "Deloitte Bootcamp",
+    "categoria": "outros"
+  },
+  {
+    "arquivo": "Turma 06 - C4_Certificado BootCamp.pdf",
+    "titulo_pt": "Bootcamp FAP 2026 - Formação Acelerada em Programação",
+    "titulo_en": "FAP 2026 Bootcamp - Accelerated Programming Training",
+    "categoria": "outros"
+  },
+  {
+    "arquivo": "CERTIFICADO.pdf",
+    "titulo_pt": "Certificado de Conclusão",
+    "titulo_en": "Certificate of Completion",
+    "categoria": "outros"
+  },
+  {
+    "arquivo": "certificado softex.pdf",
+    "titulo_pt": "Certificado Softex",
+    "titulo_en": "Softex Certificate",
+    "categoria": "outros"
+  },
+  {
+    "arquivo": "ChatGPT_otimizando a qualidade dos resultados.pdf",
+    "titulo_pt": "ChatGPT: otimizando a qualidade dos resultados",
+    "titulo_en": "ChatGPT: Optimizing the Quality of Results",
+    "categoria": "ia"
+  },
+  {
+    "arquivo": "Claude Code em acao.pdf",
+    "titulo_pt": "Claude Code em ação",
+    "titulo_en": "Claude Code in Action",
+    "categoria": "ia"
+  },
+  {
+    "arquivo": "Codigo Claude.pdf",
+    "titulo_pt": "Código Claude 101",
+    "titulo_en": "Claude Code 101",
+    "categoria": "ia"
+  },
+  {
+    "arquivo": "Configurando e Usando o GitHub.pdf",
+    "titulo_pt": "Configurando e Usando o GitHub",
+    "titulo_en": "Setting Up and Using GitHub",
+    "categoria": "git"
+  },
+  {
+    "arquivo": "Conhecendo o GitHub Copilot Aumentando sua Produtividade na Programação.pdf",
+    "titulo_pt": "Conhecendo o GitHub Copilot: Aumentando sua Produtividade",
+    "titulo_en": "Getting to Know GitHub Copilot: Boosting Your Productivity",
+    "categoria": "git"
+  },
+  {
+    "arquivo": "Construindo Equipes Eficazes de Agentes Humanos (Beta).pdf",
+    "titulo_pt": "Construindo Equipes Eficazes de Agentes Humanos (Beta)",
+    "titulo_en": "Building Effective Human-Agent Teams (Beta)",
+    "categoria": "ia"
+  },
+  {
+    "arquivo": "Crie um site simples usando HTML, CSS e JavaScript.pdf",
+    "titulo_pt": "Crie um site simples usando HTML, CSS e JavaScript",
+    "titulo_en": "Build a Simple Website Using HTML, CSS and JavaScript",
+    "categoria": "web"
+  },
+  {
+    "arquivo": "Dominando Interfaces e Lambda em Java.pdf",
+    "titulo_pt": "Dominando Interfaces e Lambda em Java",
+    "titulo_en": "Mastering Interfaces and Lambdas in Java",
+    "categoria": "java"
+  },
+  {
+    "arquivo": "Estruturas de Controle em Java.pdf",
+    "titulo_pt": "Estruturas de Controle em Java",
+    "titulo_en": "Control Structures in Java",
+    "categoria": "java"
+  },
+  {
+    "arquivo": "Fundamentos da Linguagem de Programação Java.pdf",
+    "titulo_pt": "Fundamentos da Linguagem de Programação Java",
+    "titulo_en": "Fundamentals of the Java Programming Language",
+    "categoria": "java"
+  },
+  {
+    "arquivo": "Git e GitHub compartilhando e colaborando em projetos.pdf",
+    "titulo_pt": "Git e GitHub: compartilhando e colaborando em projetos",
+    "titulo_en": "Git and GitHub: Sharing and Collaborating on Projects",
+    "categoria": "git"
+  },
+  {
+    "arquivo": "Herança e Polimorfismo em Java.pdf",
+    "titulo_pt": "Herança e Polimorfismo em Java",
+    "titulo_en": "Inheritance and Polymorphism in Java",
+    "categoria": "java"
+  },
+  {
+    "arquivo": "HTML - Avançado.pdf",
+    "titulo_pt": "HTML - Avançado",
+    "titulo_en": "HTML - Advanced",
+    "categoria": "web"
+  },
+  {
+    "arquivo": "HTML - Básico.pdf",
+    "titulo_pt": "HTML - Básico",
+    "titulo_en": "HTML - Basics",
+    "categoria": "web"
+  },
+  {
+    "arquivo": "HTML e CSS ambientes de desenvolvimento, estrutura de arquivos e tags.pdf",
+    "titulo_pt": "HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags",
+    "titulo_en": "HTML and CSS: Development Environments, File Structure and Tags",
+    "categoria": "web"
+  },
+  {
+    "arquivo": "HTML e CSS cabeçalho, footer e variáveis CSS.pdf",
+    "titulo_pt": "HTML e CSS: cabeçalho, footer e variáveis CSS",
+    "titulo_en": "HTML and CSS: Header, Footer and CSS Variables",
+    "categoria": "web"
+  },
+  {
+    "arquivo": "HTML e CSS Classes, posicionamento e Flexbox.pdf",
+    "titulo_pt": "HTML e CSS: Classes, posicionamento e Flexbox",
+    "titulo_en": "HTML and CSS: Classes, Positioning and Flexbox",
+    "categoria": "web"
+  },
+  {
+    "arquivo": "HTML e CSS trabalhando com responsividade e publicação de projetos.pdf",
+    "titulo_pt": "HTML e CSS: responsividade e publicação de projetos",
+    "titulo_en": "HTML and CSS: Responsiveness and Publishing Projects",
+    "categoria": "web"
+  },
+  {
+    "arquivo": "Iniciante em Programação G8 - ONE.pdf",
+    "titulo_pt": "Iniciante em Programação G8 - ONE",
+    "titulo_en": "Beginner Programming G8 - ONE",
+    "categoria": "outros"
+  },
+  {
+    "arquivo": "Introdução à Engenharia de Prompts.pdf",
+    "titulo_pt": "Introdução à Engenharia de Prompts",
+    "titulo_en": "Introduction to Prompt Engineering",
+    "categoria": "ia"
+  },
+  {
+    "arquivo": "Introdução à Engenharia de Prompts e GitHub Copilot com Java.pdf",
+    "titulo_pt": "Introdução à Engenharia de Prompts e GitHub Copilot com Java",
+    "titulo_en": "Introduction to Prompt Engineering and GitHub Copilot with Java",
+    "categoria": "ia"
+  },
+  {
+    "arquivo": "Introducao a Experiencia Decola Tech.pdf",
+    "titulo_pt": "Introdução à Experiência Decola Tech",
+    "titulo_en": "Introduction to the Decola Tech Experience",
+    "categoria": "outros"
+  },
+  {
+    "arquivo": "Introdução à Experiência Santander 2025 - 2º Semestre.pdf",
+    "titulo_pt": "Introdução à Experiência Santander 2025 - 2º Semestre",
+    "titulo_en": "Introduction to the Santander Experience 2025 - 2nd Semester",
+    "categoria": "outros"
+  },
+  {
+    "arquivo": "Introdução ao Java e seu Ambiente de Desenvolvimento.pdf",
+    "titulo_pt": "Introdução ao Java e seu Ambiente de Desenvolvimento",
+    "titulo_en": "Introduction to Java and Its Development Environment",
+    "categoria": "java"
+  },
+  {
+    "arquivo": "Introdução ao Protocolo de Contexto do Modelo.pdf",
+    "titulo_pt": "Introdução ao Protocolo de Contexto do Modelo",
+    "titulo_en": "Introduction to the Model Context Protocol",
+    "categoria": "ia"
+  },
+  {
+    "arquivo": "Introdução e objetivos.pdf",
+    "titulo_pt": "Introdução e objetivos",
+    "titulo_en": "Introduction and Objectives",
+    "categoria": "outros"
+  },
+  {
+    "arquivo": "Introduction to Claude Cowork.pdf",
+    "titulo_pt": "Introduction to Claude Cowork",
+    "titulo_en": "Introduction to Claude Cowork",
+    "categoria": "ia"
+  },
+  {
+    "arquivo": "Certificado - Java do básico ao avançado - com exercícios e projetos.pdf",
+    "titulo_pt": "Java do básico ao avançado - com exercícios e projetos",
+    "titulo_en": "Java from Basics to Advanced - with Exercises and Projects",
+    "categoria": "java"
+  },
+  {
+    "arquivo": "Java e a Arte da Abstração com Classes e Encapsulamento.pdf",
+    "titulo_pt": "Java e a Arte da Abstração com Classes e Encapsulamento",
+    "titulo_en": "Java and the Art of Abstraction with Classes and Encapsulation",
+    "categoria": "java"
+  },
+  {
+    "arquivo": "Java e IA para Iniciantes com a NTT DATA.pdf",
+    "titulo_pt": "Java e IA para Iniciantes com a NTT DATA",
+    "titulo_en": "Java and AI for Beginners with NTT DATA",
+    "categoria": "java"
+  },
+  {
+    "arquivo": "Lógica de programação explore funções e listas.pdf",
+    "titulo_pt": "Lógica de programação: explore funções e listas",
+    "titulo_en": "Programming Logic: Exploring Functions and Lists",
+    "categoria": "web"
+  },
+  {
+    "arquivo": "Lógica de programação mergulhe em programação com JavaScript.pdf",
+    "titulo_pt": "Lógica de programação: mergulhe em JavaScript",
+    "titulo_en": "Programming Logic: Diving into JavaScript",
+    "categoria": "web"
+  },
+  {
+    "arquivo": "Lógica e Pensamento.pdf",
+    "titulo_pt": "Lógica e Pensamento Computacional",
+    "titulo_en": "Logic and Computational Thinking",
+    "categoria": "outros"
+  },
+  {
+    "arquivo": "Microsoft Excel 2016 - Básico.pdf",
+    "titulo_pt": "Microsoft Excel 2016 - Básico",
+    "titulo_en": "Microsoft Excel 2016 - Basic",
+    "categoria": "office"
+  },
+  {
+    "arquivo": "Microsoft Excel 2016 - Intermediário.pdf",
+    "titulo_pt": "Microsoft Excel 2016 - Intermediário",
+    "titulo_en": "Microsoft Excel 2016 - Intermediate",
+    "categoria": "office"
+  },
+  {
+    "arquivo": "Microsoft PowerPoint 2016 - Avançado.pdf",
+    "titulo_pt": "Microsoft PowerPoint 2016 - Avançado",
+    "titulo_en": "Microsoft PowerPoint 2016 - Advanced",
+    "categoria": "office"
+  },
+  {
+    "arquivo": "Microsoft PowerPoint 2016 - Básico.pdf",
+    "titulo_pt": "Microsoft PowerPoint 2016 - Básico",
+    "titulo_en": "Microsoft PowerPoint 2016 - Basic",
+    "categoria": "office"
+  },
+  {
+    "arquivo": "Microsoft Word 2016 - Intermediário.pdf",
+    "titulo_pt": "Microsoft Word 2016 - Intermediário",
+    "titulo_en": "Microsoft Word 2016 - Intermediate",
+    "categoria": "office"
+  },
+  {
+    "arquivo": "Performa.pdf",
+    "titulo_pt": "Performa",
+    "titulo_en": "Performa",
+    "categoria": "outros"
+  },
+  {
+    "arquivo": "Praticando Logica de programação Challenge amigo secreto.pdf",
+    "titulo_pt": "Praticando Lógica: Challenge Amigo Secreto",
+    "titulo_en": "Practicing Logic: Secret Santa Challenge",
+    "categoria": "web"
+  },
+  {
+    "arquivo": "Primeiros Passos da sua Jornada com Java e Cloud.pdf",
+    "titulo_pt": "Primeiros Passos da sua Jornada com Java e Cloud",
+    "titulo_en": "First Steps of Your Journey with Java and Cloud",
+    "categoria": "java"
+  },
+  {
+    "arquivo": "Protocolo de Contexto do Modelo Topicos Avancados.pdf",
+    "titulo_pt": "Protocolo de Contexto do Modelo: Tópicos Avançados",
+    "titulo_en": "Model Context Protocol: Advanced Topics",
+    "categoria": "ia"
+  },
+  {
+    "arquivo": "certificado-participacao-GTM0u.pdf",
+    "titulo_pt": "Roga DX 2026",
+    "titulo_en": "Roga DX 2026",
+    "categoria": "outros"
+  },
+  {
+    "arquivo": "SHAREPOINT.pdf",
+    "titulo_pt": "SharePoint",
+    "titulo_en": "SharePoint",
+    "categoria": "office"
+  },
+  {
+    "arquivo": "SQL do básico ao avançado (com MySQL e Projeto).pdf",
+    "titulo_pt": "SQL do básico ao avançado (com MySQL e Projeto)",
+    "titulo_en": "SQL from Basics to Advanced (with MySQL and Project)",
+    "categoria": "sql"
+  },
+  {
+    "arquivo": "Técnicas de Engenharia de Prompt.pdf",
+    "titulo_pt": "Técnicas de Engenharia de Prompt",
+    "titulo_en": "Prompt Engineering Techniques",
+    "categoria": "ia"
+  },
+  {
+    "arquivo": "Versionamento de Código com Git.pdf",
+    "titulo_pt": "Versionamento de Código com Git",
+    "titulo_en": "Code Versioning with Git",
+    "categoria": "git"
+  }
+]
