@@ -12,8 +12,12 @@ Este repositório é a fonte de verdade dos certificados exibidos em
 [alvarofgomes.github.io/Portfolio_alvarofgomes](https://alvarofgomes.github.io/Portfolio_alvarofgomes/).
 O arquivo [`certificados.json`](./certificados.json) lista, para cada PDF, o título em
 PT/EN e a categoria. Ao dar push na `main`, um workflow (`.github/workflows/notify-portfolio.yml`)
-avisa o repositório do portfólio, que busca este manifesto, sincroniza os PDFs e publica
+avisa o repositório do portfólio, que busca este manifesto, regenera os dados e publica
 o site sozinho — não precisa mexer em nada no outro repositório.
+
+Os PDFs **não são copiados** para o portfólio: o site aponta direto para eles através do CDN
+do jsDelivr (`https://cdn.jsdelivr.net/gh/alvarofgomes/Certificados@main/<arquivo>`). Ou seja,
+este repositório é a única cópia dos arquivos.
 
 ### Como adicionar um certificado novo
 
@@ -29,6 +33,21 @@ o site sozinho — não precisa mexer em nada no outro repositório.
    ```
    Categorias válidas: `java`, `web`, `git`, `ia`, `office`, `python`, `sql`, `outros`.
 3. Commit + push na `main`. O site atualiza sozinho em alguns minutos.
+
+> O campo `arquivo` precisa bater **exatamente** com o nome do PDF (acentos, espaços e
+> maiúsculas incluídos). Se não bater, a sincronização falha avisando qual entrada está errada.
+
+### Substituí um PDF mantendo o mesmo nome e o site mostra o antigo
+
+O CDN guarda o arquivo em cache por um tempo. Para forçar a atualização imediata:
+
+```bash
+curl -X POST https://purge.jsdelivr.net/ \
+  -H "Content-Type: application/json" \
+  -d '{"path":["/gh/alvarofgomes/Certificados@main/NOME DO ARQUIVO.pdf"]}'
+```
+
+Isso só é necessário ao **substituir** um arquivo existente — certificados novos aparecem na hora.
 
 ## Como Utilizar
 
