@@ -90,6 +90,12 @@
     "categoria": "web"
   },
   {
+    "arquivo": "Claude 101.pdf",
+    "titulo_pt": "Claude 101",
+    "titulo_en": "Claude 101",
+    "categoria": "ia"
+  },
+  {
     "arquivo": "Dominando Interfaces e Lambda em Java.pdf",
     "titulo_pt": "Dominando Interfaces e Lambda em Java",
     "titulo_en": "Mastering Interfaces and Lambdas in Java",
