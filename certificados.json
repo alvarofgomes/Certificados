@@ -108,6 +108,12 @@
     "categoria": "ia"
   },
   {
+    "arquivo":"Construindo com a API Claude.pdf",
+    "titulo_pt": "Construindo com a API Claude",
+    "titulo_en": "Building with the Claude API",
+    "categoria": "ia"
+  },
+  {
     "arquivo": "Dominando Interfaces e Lambda em Java.pdf",
     "titulo_pt": "Dominando Interfaces e Lambda em Java",
     "titulo_en": "Mastering Interfaces and Lambdas in Java",
