@@ -102,6 +102,12 @@
     "categoria": "ia"
   },
   {
+    "arquivo":"Claude com a Vertex AI do Google Cloud.pdf",
+    "titulo_pt": "Claude com a Vertex AI do Google Cloud",
+    "titulo_en": "Claude with Google Cloud's Vertex AI",
+    "categoria": "ia"
+  },
+  {
     "arquivo": "Dominando Interfaces e Lambda em Java.pdf",
     "titulo_pt": "Dominando Interfaces e Lambda em Java",
     "titulo_en": "Mastering Interfaces and Lambdas in Java",
