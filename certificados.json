@@ -119,6 +119,12 @@
     "titulo_en": "Mastering Interfaces and Lambdas in Java",
     "categoria": "java"
   },
+    {
+    "arquivo": "Ensinando Fluencia em IA.pdf",
+    "titulo_pt": "Ensinando Fluência em IA",
+    "titulo_en": "Teaching Fluency in AI",
+    "categoria": "ia"
+  },
   {
     "arquivo": "Estruturas de Controle em Java.pdf",
     "titulo_pt": "Estruturas de Controle em Java",
@@ -126,9 +132,9 @@
     "categoria": "java"
   },
   {
-    "arquivo": "Ensinando Fluencia em IA.pdf",
-    "titulo_pt": "Ensinando Fluência em IA",
-    "titulo_en": "Teaching Fluency in AI",
+    "arquivo":"Fluência em IA para educadores.pdf",
+    "titulo_pt": "Fluência em IA para educadores",
+    "titulo_en": "AI Fluency for Educators",
     "categoria": "ia"
   },
   {
