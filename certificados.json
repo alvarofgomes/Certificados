@@ -30,9 +30,27 @@
     "categoria": "outros"
   },
   {
-    "arquivo": "Turma 06 - C4_Certificado BootCamp.pdf",
-    "titulo_pt": "Bootcamp FAP 2026 - Formação Acelerada em Programação",
-    "titulo_en": "FAP 2026 Bootcamp - Accelerated Programming Training",
+    "arquivo":"Capacidades e limitações da IA.pdf",
+    "titulo_pt": "Capacidades e limitações da IA",
+    "titulo_en": "Capabilities and Limitations of AI",
+    "categoria": "ia"
+  },
+  {
+    "arquivo": "Certificado - Java do básico ao avançado - com exercícios e projetos.pdf",
+    "titulo_pt": "Java do básico ao avançado - com exercícios e projetos",
+    "titulo_en": "Java from Basics to Advanced - with Exercises and Projects",
+    "categoria": "java"
+  },
+  {
+    "arquivo": "certificado softex.pdf",
+    "titulo_pt": "Certificado Softex",
+    "titulo_en": "Softex Certificate",
+    "categoria": "outros"
+  },
+  {
+    "arquivo": "certificado-participacao-GTM0u.pdf",
+    "titulo_pt": "Roga DX 2026",
+    "titulo_en": "Roga DX 2026",
     "categoria": "outros"
   },
   {
@@ -42,21 +60,33 @@
     "categoria": "outros"
   },
   {
-    "arquivo": "certificado softex.pdf",
-    "titulo_pt": "Certificado Softex",
-    "titulo_en": "Softex Certificate",
-    "categoria": "outros"
-  },
-  {
     "arquivo": "ChatGPT_otimizando a qualidade dos resultados.pdf",
     "titulo_pt": "ChatGPT: otimizando a qualidade dos resultados",
     "titulo_en": "ChatGPT: Optimizing the Quality of Results",
     "categoria": "ia"
   },
   {
+    "arquivo": "Claude 101.pdf",
+    "titulo_pt": "Claude 101",
+    "titulo_en": "Claude 101",
+    "categoria": "ia"
+  },
+  {
     "arquivo": "Claude Code em acao.pdf",
     "titulo_pt": "Claude Code em ação",
     "titulo_en": "Claude Code in Action",
+    "categoria": "ia"
+  },
+  {
+    "arquivo": "Claude com a Base Amazonica.pdf",
+    "titulo_pt": "Claude com a Base Amazônica",
+    "titulo_en": "Claude with the Amazonian Base",
+    "categoria": "ia"
+  },
+  {
+    "arquivo": "Claude com a Vertex AI do Google Cloud.pdf",
+    "titulo_pt": "Claude com a Vertex AI do Google Cloud",
+    "titulo_en": "Claude with Google Cloud's Vertex AI",
     "categoria": "ia"
   },
   {
@@ -78,6 +108,12 @@
     "categoria": "git"
   },
   {
+    "arquivo": "Construindo com a API Claude.pdf",
+    "titulo_pt": "Construindo com a API Claude",
+    "titulo_en": "Building with the Claude API",
+    "categoria": "ia"
+  },
+  {
     "arquivo": "Construindo Equipes Eficazes de Agentes Humanos (Beta).pdf",
     "titulo_pt": "Construindo Equipes Eficazes de Agentes Humanos (Beta)",
     "titulo_en": "Building Effective Human-Agent Teams (Beta)",
@@ -90,36 +126,12 @@
     "categoria": "web"
   },
   {
-    "arquivo": "Claude 101.pdf",
-    "titulo_pt": "Claude 101",
-    "titulo_en": "Claude 101",
-    "categoria": "ia"
-  },
-  {
-    "arquivo": "Claude com a Base Amazonica.pdf",
-    "titulo_pt": "Claude com a Base Amazônica",
-    "titulo_en": "Claude with the Amazonian Base",
-    "categoria": "ia"
-  },
-  {
-    "arquivo":"Claude com a Vertex AI do Google Cloud.pdf",
-    "titulo_pt": "Claude com a Vertex AI do Google Cloud",
-    "titulo_en": "Claude with Google Cloud's Vertex AI",
-    "categoria": "ia"
-  },
-  {
-    "arquivo":"Construindo com a API Claude.pdf",
-    "titulo_pt": "Construindo com a API Claude",
-    "titulo_en": "Building with the Claude API",
-    "categoria": "ia"
-  },
-  {
     "arquivo": "Dominando Interfaces e Lambda em Java.pdf",
     "titulo_pt": "Dominando Interfaces e Lambda em Java",
     "titulo_en": "Mastering Interfaces and Lambdas in Java",
     "categoria": "java"
   },
-    {
+  {
     "arquivo": "Ensinando Fluencia em IA.pdf",
     "titulo_pt": "Ensinando Fluência em IA",
     "titulo_en": "Teaching Fluency in AI",
@@ -132,7 +144,7 @@
     "categoria": "java"
   },
   {
-    "arquivo":"Fluência em IA para educadores.pdf",
+    "arquivo": "Fluência em IA para educadores.pdf",
     "titulo_pt": "Fluência em IA para educadores",
     "titulo_en": "AI Fluency for Educators",
     "categoria": "ia"
@@ -192,21 +204,27 @@
     "categoria": "web"
   },
   {
+    "arquivo": "Implantando o Claude Enterprise com confianca as cinco decisoes que moldam sua implementacao.pdf",
+    "titulo_pt": "Implantando o Claude Enterprise com confiança: as cinco decisões que moldam sua implementação",
+    "titulo_en": "Deploying Claude Enterprise with Confidence: The Five Decisions That Shape Your Implementation",
+    "categoria": "ia"
+  },
+  {
     "arquivo": "Iniciante em Programação G8 - ONE.pdf",
     "titulo_pt": "Iniciante em Programação G8 - ONE",
     "titulo_en": "Beginner Programming G8 - ONE",
     "categoria": "outros"
   },
   {
-    "arquivo": "Introdução à Engenharia de Prompts.pdf",
-    "titulo_pt": "Introdução à Engenharia de Prompts",
-    "titulo_en": "Introduction to Prompt Engineering",
-    "categoria": "ia"
-  },
-  {
     "arquivo": "Introdução à Engenharia de Prompts e GitHub Copilot com Java.pdf",
     "titulo_pt": "Introdução à Engenharia de Prompts e GitHub Copilot com Java",
     "titulo_en": "Introduction to Prompt Engineering and GitHub Copilot with Java",
+    "categoria": "ia"
+  },
+  {
+    "arquivo": "Introdução à Engenharia de Prompts.pdf",
+    "titulo_pt": "Introdução à Engenharia de Prompts",
+    "titulo_en": "Introduction to Prompt Engineering",
     "categoria": "ia"
   },
   {
@@ -244,18 +262,6 @@
     "titulo_pt": "Introdução ao Claude Cowork",
     "titulo_en": "Introduction to Claude Cowork",
     "categoria": "ia"
-  },
-  {
-    "arquivo": "Implantando o Claude Enterprise com confianca as cinco decisoes que moldam sua implementacao.pdf",
-    "titulo_pt": "Implantando o Claude Enterprise com confiança: as cinco decisões que moldam sua implementação",
-    "titulo_en": "Deploying Claude Enterprise with Confidence: The Five Decisions That Shape Your Implementation",
-    "categoria": "ia"
-  },
-  {
-    "arquivo": "Certificado - Java do básico ao avançado - com exercícios e projetos.pdf",
-    "titulo_pt": "Java do básico ao avançado - com exercícios e projetos",
-    "titulo_en": "Java from Basics to Advanced - with Exercises and Projects",
-    "categoria": "java"
   },
   {
     "arquivo": "Java e a Arte da Abstração com Classes e Encapsulamento.pdf",
@@ -318,16 +324,16 @@
     "categoria": "office"
   },
   {
-    "arquivo": "Plataforma Claude 101.pdf",
-    "titulo_pt": "Plataforma Claude 101",
-    "titulo_en": "Claude Platform 101",
-    "categoria": "ia"
-  },
-  {
     "arquivo": "Performa.pdf",
     "titulo_pt": "Performa",
     "titulo_en": "Performa",
     "categoria": "outros"
+  },
+  {
+    "arquivo": "Plataforma Claude 101.pdf",
+    "titulo_pt": "Plataforma Claude 101",
+    "titulo_en": "Claude Platform 101",
+    "categoria": "ia"
   },
   {
     "arquivo": "Praticando Logica de programação Challenge amigo secreto.pdf",
@@ -348,12 +354,6 @@
     "categoria": "ia"
   },
   {
-    "arquivo": "certificado-participacao-GTM0u.pdf",
-    "titulo_pt": "Roga DX 2026",
-    "titulo_en": "Roga DX 2026",
-    "categoria": "outros"
-  },
-  {
     "arquivo": "SHAREPOINT.pdf",
     "titulo_pt": "SharePoint",
     "titulo_en": "SharePoint",
@@ -370,6 +370,12 @@
     "titulo_pt": "Técnicas de Engenharia de Prompt",
     "titulo_en": "Prompt Engineering Techniques",
     "categoria": "ia"
+  },
+  {
+    "arquivo": "Turma 06 - C4_Certificado BootCamp.pdf",
+    "titulo_pt": "Bootcamp FAP 2026 - Formação Acelerada em Programação",
+    "titulo_en": "FAP 2026 Bootcamp - Accelerated Programming Training",
+    "categoria": "outros"
   },
   {
     "arquivo": "Versionamento de Código com Git.pdf",
