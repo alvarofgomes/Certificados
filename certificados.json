@@ -144,9 +144,21 @@
     "categoria": "java"
   },
   {
+    "arquivo":"Fluência em IA para construtores.pdf",
+    "titulo_pt": "Fluência em IA para construtores",
+    "titulo_en": "AI Fluency for Builders",
+    "categoria": "ia"
+  },
+  {
     "arquivo": "Fluência em IA para educadores.pdf",
     "titulo_pt": "Fluência em IA para educadores",
     "titulo_en": "AI Fluency for Educators",
+    "categoria": "ia"
+  },
+  {
+    "arquivo":"Fluência em IA para estudantes.pdf",
+    "titulo_pt": "Fluência em IA para estudantes",
+    "titulo_en": "AI Fluency for Students",
     "categoria": "ia"
   },
   {
