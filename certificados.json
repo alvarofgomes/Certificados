@@ -30,7 +30,7 @@
     "categoria": "outros"
   },
   {
-    "arquivo":"Capacidades e limitações da IA.pdf",
+    "arquivo": "Capacidades e limitações da IA.pdf",
     "titulo_pt": "Capacidades e limitações da IA",
     "titulo_en": "Capabilities and Limitations of AI",
     "categoria": "ia"
@@ -144,7 +144,13 @@
     "categoria": "java"
   },
   {
-    "arquivo":"Fluência em IA para construtores.pdf",
+    "arquivo": "Fluência em IA Estrutura e fundamentos.pdf",
+    "titulo_pt": "Fluência em IA: estrutura e fundamentos",
+    "titulo_en": "AI Fluency: Framework and Foundations",
+    "categoria": "ia"
+  },
+  {
+    "arquivo": "Fluência em IA para construtores.pdf",
     "titulo_pt": "Fluência em IA para construtores",
     "titulo_en": "AI Fluency for Builders",
     "categoria": "ia"
@@ -156,9 +162,15 @@
     "categoria": "ia"
   },
   {
-    "arquivo":"Fluência em IA para estudantes.pdf",
+    "arquivo": "Fluência em IA para estudantes.pdf",
     "titulo_pt": "Fluência em IA para estudantes",
     "titulo_en": "AI Fluency for Students",
+    "categoria": "ia"
+  },
+  {
+    "arquivo": "Fluência em IA para trabalhos criativos.pdf",
+    "titulo_pt": "Fluência em IA para trabalhos criativos",
+    "titulo_en": "AI Fluency for Creative Work",
     "categoria": "ia"
   },
   {
@@ -213,6 +225,12 @@
     "arquivo": "HTML e CSS trabalhando com responsividade e publicação de projetos.pdf",
     "titulo_pt": "HTML e CSS: responsividade e publicação de projetos",
     "titulo_en": "HTML and CSS: Responsiveness and Publishing Projects",
+    "categoria": "web"
+  },
+  {
+    "arquivo": "HTML5 e CSS Aprendendo criar sites do zero na pratica.pdf",
+    "titulo_pt": "HTML5 e CSS: aprendendo a criar sites do zero na prática",
+    "titulo_en": "HTML5 and CSS: Learning to Build Websites from Scratch",
     "categoria": "web"
   },
   {
@@ -274,6 +292,12 @@
     "titulo_pt": "Introdução ao Claude Cowork",
     "titulo_en": "Introduction to Claude Cowork",
     "categoria": "ia"
+  },
+  {
+    "arquivo": "Itaú - Java com Inteligência Artificial.pdf",
+    "titulo_pt": "Itaú - Java com Inteligência Artificial",
+    "titulo_en": "Itaú - Java with Artificial Intelligence",
+    "categoria": "java"
   },
   {
     "arquivo": "Java e a Arte da Abstração com Classes e Encapsulamento.pdf",
