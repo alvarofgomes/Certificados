@@ -66,6 +66,12 @@
     "categoria": "ia"
   },
   {
+    "arquivo": "CI&T - Java AI Copilot.pdf",
+    "titulo_pt": "CI&T - Java AI Copilot",
+    "titulo_en": "CI&T - Java AI Copilot",
+    "categoria": "java"
+  },
+  {
     "arquivo": "Claude 101.pdf",
     "titulo_pt": "Claude 101",
     "titulo_en": "Claude 101",
@@ -156,6 +162,12 @@
     "categoria": "ia"
   },
   {
+    "arquivo": "Fluência em IA para educadores da pré escola ao ensino médio.pdf",
+    "titulo_pt": "Fluência em IA para educadores da pré-escola ao ensino médio",
+    "titulo_en": "AI Fluency for K-12 Educators",
+    "categoria": "ia"
+  },
+  {
     "arquivo": "Fluência em IA para educadores.pdf",
     "titulo_pt": "Fluência em IA para educadores",
     "titulo_en": "AI Fluency for Educators",
@@ -165,6 +177,18 @@
     "arquivo": "Fluência em IA para estudantes.pdf",
     "titulo_pt": "Fluência em IA para estudantes",
     "titulo_en": "AI Fluency for Students",
+    "categoria": "ia"
+  },
+  {
+    "arquivo": "Fluência em IA para organizações sem fins lucrativos.pdf",
+    "titulo_pt": "Fluência em IA para organizações sem fins lucrativos",
+    "titulo_en": "AI Fluency for Nonprofits",
+    "categoria": "ia"
+  },
+  {
+    "arquivo": "Fluência em IA para pequenas empresas.pdf",
+    "titulo_pt": "Fluência em IA para pequenas empresas",
+    "titulo_en": "AI Fluency for Small Business",
     "categoria": "ia"
   },
   {
