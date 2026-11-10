@@ -30,6 +30,12 @@
     "categoria": "ia"
   },
   {
+    "arquivo": "Aprenda CICD com Gitlab.pdf",
+    "titulo_pt": "Aprenda CI/CD com GitLab em 4 horas",
+    "titulo_en": "Learn CI/CD with GitLab in 4 Hours",
+    "categoria": "git"
+  },
+  {
     "arquivo": "Bootcamp_Deloitte.pdf",
     "titulo_pt": "Bootcamp Deloitte",
     "titulo_en": "Deloitte Bootcamp",
